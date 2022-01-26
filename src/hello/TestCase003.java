@@ -10,7 +10,6 @@ public class TestCase003 {
     }
     // final result
 
-    // This is a change from local Intelij
 }
-
+// This is a change from local Intelij
 // This is a change from GitHub.com
